@@ -1,7 +1,6 @@
-# Symbolic Mixture-of-Experts
-## Adaptive Skill-based Routing for Scalable Heterogeneous Reasoning
+# [Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning](https://arxiv.org/abs/2503.05641)
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/xxxxxxxx)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2503.05641)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [Justin Chih-Yao Chen*](https://dinobby.github.io/) | [Sukwon Yun*](https://sukwonyun.github.io/) | [Elias Stengel-Eskin*](https://esteng.github.io/) | [Tianlong Chen](https://tianlong-chen.github.io/) | [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
@@ -111,7 +110,7 @@ If you find this work useful, please consider citing us:
 @article{chen2025symbolic,
   title={Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Scalable Heterogeneous Reasoning},
   author={Chen, Justin Chih-Yao and Yun, Sukwon and Stengel-Eskin, Elias and Chen, Tianlong and Bansal, Mohit},
-  journal={arXiv preprint arXiv:xxxxxxxx},
+  journal={arXiv preprint arXiv:2503.05641},
   year={2025}
 }
 ```
