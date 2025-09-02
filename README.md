@@ -90,15 +90,15 @@ The aggregator we use for each task can be found in the following table (and Tab
 | MMLU-Pro | LlamaR1 |
 | AIME | QwenR1 |
 | GPQA | QwenR1 |
-| MedMCQA | Exaone |
+| MedMCQA | Qwen |
 
 ## Quick Start with Pre-Generated Outputs
 You can skip Steps 1-4 by downloading the stored outputs here ([Google Drive](https://drive.google.com/file/d/1niCr2H7eec7CDMM6cvyK3pJoEXOFkLa1/view?usp=sharing)). 
 
-Extract all files in `outputs.zip` and placing all the folders in the root directory of this project:
+Extract all files in `skill.zip` and placing all the folders in the root directory of this project:
 
 ```bash
-unzip outputs.zip
+unzip skill.zip
 ```
 
 After extraction, you can proceed directly to Steps 5-7 to complete the experiment.
