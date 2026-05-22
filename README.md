@@ -1,4 +1,4 @@
-# [Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning](https://arxiv.org/abs/2503.05641)
+# [Skill-Based Mixture-of-Experts: Adaptive Routing for Heterogeneous Reasoning via Inferred Skills](https://arxiv.org/abs/2503.05641)
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2503.05641)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -107,8 +107,8 @@ After extraction, you can proceed directly to Steps 5-7 to complete the experime
 If you find this work useful, please consider citing us:
 
 ```bibtex
-@article{chen2025symbolic,
-  title={Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Scalable Heterogeneous Reasoning},
+@article{chen2025skillmoe,
+  title={Skill-Based Mixture-of-Experts: Adaptive Routing for Heterogeneous Reasoning via Inferred Skills},
   author={Chen, Justin Chih-Yao and Yun, Sukwon and Stengel-Eskin, Elias and Chen, Tianlong and Bansal, Mohit},
   journal={arXiv preprint arXiv:2503.05641},
   year={2025}
